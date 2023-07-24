@@ -567,7 +567,13 @@ p {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
-  margin-top: 0;
+}
+
+@media only screen and (min-width: 1158px) {
+  .title-team {
+    margin-top: 0;
+    text-align: center;
+  }
 }
 .title-block {
   margin-bottom: 72px;

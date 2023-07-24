@@ -567,6 +567,7 @@ p {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
+  margin-top: 0;
 }
 .title-block {
   margin-bottom: 72px;

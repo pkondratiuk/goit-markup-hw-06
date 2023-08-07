@@ -171,7 +171,7 @@ p {
   display: block;
   width: 100%;
   height: 4px;
-  background-color: #404bbf;
+  background-color: var(--checkbox-cl);
   border-radius: 2px;
   bottom: -1px;
 }
